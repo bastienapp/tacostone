@@ -4,8 +4,10 @@ const numbers = [-12, -10, -7, -1, 5, 8, 11, 15, 20, 27];
 
 // afficher un tableau où chaque nombre a été conventi en chaîne de caractère
 
-const multiple = 3;
-// afficher un tableau ne contenant que les nombres multiple de "multiple"
+const value = 3;
+// afficher un tableau ne contenant que les nombres multiple de 'value'
+
+/*--------------------------*/
 
 const gameOfThrone = [
   'Bran Stark',
@@ -18,7 +20,7 @@ const gameOfThrone = [
 
 // afficher un tableau ne contenant que des Starks
 
-
+/*--------------------------*/
 
 const food =   [
   'Chicken',
@@ -28,6 +30,8 @@ const food =   [
 ];
 
 // afficher un tableau dont chaque case contient le nombre de lettre de la nourriture correspondante
+
+/*--------------------------*/
 
 const movies = [
   {
@@ -49,6 +53,8 @@ const movies = [
 ];
 
 // afficher un tableau contenant les notes de chaque film
+
+/*--------------------------*/
 
 const heroes = [
   {
@@ -101,6 +107,8 @@ const heroes = [
 
 // afficher un tableau contenant tous les héros intolérants au gluten
 
+/*--------------------------*/
+
 const names = [
   "Phil Coulson",
   "Melinda May",
@@ -109,4 +117,4 @@ const names = [
   "Jemma Simmons"
 ];
 
-// afficher un tableau contenant des objets d'agens, un agent ayant pour propriété un prénom 'firstName' et un nom 'lastName'
+// afficher un tableau contenant des agents, représentés par des objets ayant les propriétés 'firstName' et 'lastName'
